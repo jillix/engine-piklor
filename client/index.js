@@ -54,6 +54,7 @@ exports.open = function () {
  * @function
  * @param {Event} ev The event object.
  * @param {Object} data An object containing:
+ *
  *  - `col` (String): The color to set.
  *  - `p` (Boolean): If `false`, the color change will not be triggered.
  */
