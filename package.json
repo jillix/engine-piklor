@@ -1,7 +1,7 @@
 {
   "name": "engine-piklor",
   "version": "1.0.0",
-  "description": "piklor version for Engine.",
+  "description": "Piklor.js version for Engine.",
   "main": "client/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
