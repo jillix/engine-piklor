@@ -1,0 +1,13 @@
+{
+    "client": {
+        "methods": {
+            "render": {},
+            "close": {},
+            "open": {},
+            "set": {}
+        },
+        "emits": {
+            "colorChosen": {}
+        }
+    }
+}
